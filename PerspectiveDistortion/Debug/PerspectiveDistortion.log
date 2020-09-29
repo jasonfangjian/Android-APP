@@ -1,0 +1,5 @@
+﻿  doDistortion.cpp
+  fm_ocr_scanner.cpp
+C:\Users\jason\Desktop\PerspectiveDistortion\doDistortion.cpp(7,10): fatal error C1083: Cannot open include file: 'opencv2/core.hpp': No such file or directory
+  Generating Code...
+C:\Users\jason\Desktop\PerspectiveDistortion\fm_ocr_scanner.hpp(15,10): fatal error C1083: Cannot open include file: 'opencv2/core.hpp': No such file or directory
