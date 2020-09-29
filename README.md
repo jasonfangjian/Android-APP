@@ -13,7 +13,10 @@ The project is developing an Android application which can realized correcting K
 [assets](./assets): test pictures
 
 ## Demo
--（+*） 第一项 -（+*） 第二项 - （+*）第三项
+* Download the CorrectionDistortion.apk file on an Android smart phone.
+* Installing the application on the phone.
+* Open the APP and start trial.
+
 1. The first button is to take the photo, and the second button is to start the process of correction.
 <div align=center><img width="270" height="540" src="https://github.com/jasonfangjian/Android-APP/blob/master/assets/test1.jpg"/></div>
 
