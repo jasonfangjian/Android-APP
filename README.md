@@ -13,4 +13,4 @@ The project is developing an Android application which can realized correcting K
 [assets](./assets): test pictures
 
 ## Demo
-<div align=center><img width="150" height="150" src="https://github.com/jasonfangjian/Android-APP/blob/master/assets/test1.jpg"/></div>
+<div align=center><img width="360" height="180" src="https://github.com/jasonfangjian/Android-APP/blob/master/assets/test1.jpg"/></div>
