@@ -20,15 +20,15 @@ The project is developing an Android application which can realized correcting K
 
 <div align=center><img width="270" height="540" src="https://github.com/jasonfangjian/Android-APP/blob/master/assets/takephoto.jpg"/></div>
 
-3. Test 1:
+3. Test 1: Picture on the left is the photo before processing, and the picture on the right is the result after correction.
 
 <div align=center><img width="270" height="540" src="https://github.com/jasonfangjian/Android-APP/blob/master/assets/test1.jpg"/><img width="270" height="540" src="https://github.com/jasonfangjian/Android-APP/blob/master/assets/result1.jpg"/></div>
 
-4. Test 2:
+4. Test 2: Picture on the left is the photo before processing, and the picture on the right is the result after correction.
 
 <div align=center><img width="270" height="540" src="https://github.com/jasonfangjian/Android-APP/blob/master/assets/test2.jpg"/><img width="270" height="540" src="https://github.com/jasonfangjian/Android-APP/blob/master/assets/result2.jpg"/></div>
 
-5. Test 3:
+5. Test 3: Picture on the left is the photo before processing, and the picture on the right is the result after correction.
 
 <div align=center><img width="270" height="540" src="https://github.com/jasonfangjian/Android-APP/blob/master/assets/test3.jpg"/><img width="270" height="540" src="https://github.com/jasonfangjian/Android-APP/blob/master/assets/result3.jpg"/></div>
 
