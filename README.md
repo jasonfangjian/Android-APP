@@ -13,3 +13,4 @@ The project is developing an Android application which can realized correcting K
 [assets](./assets): test pictures
 
 ## Demo
+(./assets/takephoto.jpg)
