@@ -10,4 +10,6 @@ The project is developing an Android application which can realized correcting K
 
 [CorrectDistortion](./CorrectDistortion.apk): Demo .apk file for trial.
 
+[assets](./assets): test pictures
+
 ## Demo
