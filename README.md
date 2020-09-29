@@ -13,4 +13,7 @@ The project is developing an Android application which can realized correcting K
 [assets](./assets): test pictures
 
 ## Demo
+1. The first button is to take the photo, and the second button is to start the process of correction.
 <div align=center><img width="270" height="540" src="https://github.com/jasonfangjian/Android-APP/blob/master/assets/test1.jpg"/></div>
+2. Taking the photoes.
+<div align=center><img width="270" height="540" src="https://github.com/jasonfangjian/Android-APP/blob/master/assets/takephoto.jpg"/></div>
