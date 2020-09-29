@@ -17,3 +17,5 @@ The project is developing an Android application which can realized correcting K
 <div align=center><img width="270" height="540" src="https://github.com/jasonfangjian/Android-APP/blob/master/assets/test1.jpg"/></div>
 2. Taking the photoes.
 <div align=center><img width="270" height="540" src="https://github.com/jasonfangjian/Android-APP/blob/master/assets/takephoto.jpg"/></div>
+3. Test 1:
+<div align=center><img width="270" height="540" src="https://github.com/jasonfangjian/Android-APP/blob/master/assets/test1.jpg"/><img width="270" height="540" src="https://github.com/jasonfangjian/Android-APP/blob/master/assets/result1.jpg"/></div>
