@@ -8,4 +8,6 @@ The project is developing an Android application which can realized correcting K
 
 [DoDistortion](./DoDistortion): Developed an Android APP by Java (with JNI) and TensorFlow Lite to implement the above algorithm.
 
+[CorrectDistortion](./CorrectDistortion.apk): Demo .apk files for trial.
+
 ## Demo
